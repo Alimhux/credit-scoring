@@ -4,7 +4,7 @@
 
 ## Датасет
 
-**Источник:** [Loan Approval Classification (Kaggle)](https://www.kaggle.com/datasets) — 45 000 записей, 14 признаков.
+**Источник:** [Loan Approval Classification (Kaggle)]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data/data)) — 45 000 записей, 14 признаков.
 
 **Целевая переменная:** `loan_status` (0 — кредит погашен, 1 — дефолт)
 
